@@ -26,7 +26,7 @@ def wishMe():
         speak("Good Afternoon!")
     else:
         speak("Good Evening!")
-    speak("I am alexa. How may I help you!")
+    speak("I am Bingo. How may I help you!")
 
 def takeCommand():
     '''
